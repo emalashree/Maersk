@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ConvertNumericToWords/ConsoleApplication1/bin/Debug
+/ConvertNumericToWords/ConsoleApplication1/obj/Debug
